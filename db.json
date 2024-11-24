@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "id": "1",
+      "first_name": "Kadiri",
+      "last_name": "Jimoh",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "first_name": "Oladimeji",
+      "last_name": "Adegbite",
+      "gender": "Male"
+    },
+    {
+      "id": "7a70",
+      "first_name": "Abidden",
+      "last_name": "Adenekan",
+      "gender": "Male"
+    },
+    {
+      "id": "9bb1",
+      "first_name": "Mariam",
+      "last_name": "Ajiroba",
+      "gender": "Female"
+    }
+  ]
+  
+}
+
+
